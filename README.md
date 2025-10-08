@@ -61,6 +61,8 @@ My name is Jihed Gabsi and I'm a Full Stack Developer specializing in Flutter, N
 **Mobile Development**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="ios logo"  />
 </div>
 
 ###
