@@ -1,27 +1,30 @@
-# Hey 👋 What's up?
+# Jihed Gabsi | Développeur Full Stack
 
-###
+> Architecte de solutions numériques innovantes | Spécialiste Flutter, Next.js & Node.js
 
-My name is Jihed Gabsi and I'm a Full Stack Developer specializing in Flutter, Next.js & Node.js, from Tunisia 🇹🇳
+---
 
-###
+## 👨‍💻 Qui suis-je ?
 
-## About me
+Passionné par le développement d'applications mobiles et web, je transforme des idées complexes en expériences utilisateur fluides et performantes. Basé en Tunisie 🇹🇳, je conçois des solutions full-stack évolutives qui répondent aux défis technologiques d'aujourd'hui.
 
-###
+**Mon parcours :**
+- 🚀 3 ans d'expérience en développement full-stack
+- 📱 Expert en développement mobile cross-platform avec Flutter
+- 🌐 Création d'applications web modernes avec Next.js et React
+- ⚙️ Architecture backend robuste avec Node.js et autres technologies
 
-✨ Creating innovative full-stack mobile & web applications since 2022  
-📚 Currently mastering advanced Flutter development, Next.js architecture & Node.js backend systems  
-🎯 Goals: Build scalable full-stack solutions that make a real impact  
-🎲 Fun fact: I love turning complex problems into elegant, user-friendly applications!
+---
 
-###
+## 🎯 Ma Vision
 
-## 💻 Tech Stack
+Concevoir des applications qui ne se contentent pas de fonctionner, mais qui dépassent les attentes. Chaque ligne de code est une opportunité de créer quelque chose d'exceptionnel.
 
-###
+---
 
-**Frontend Development**
+## 🛠️ Expertise Technique
+
+### Développement Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
@@ -34,7 +37,7 @@ My name is Jihed Gabsi and I'm a Full Stack Developer specializing in Flutter, N
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-**Backend Development**
+### Développement Backend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -47,7 +50,7 @@ My name is Jihed Gabsi and I'm a Full Stack Developer specializing in Flutter, N
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
 
-**Database & Cloud**
+### Bases de Données & Cloud
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -58,42 +61,58 @@ My name is Jihed Gabsi and I'm a Full Stack Developer specializing in Flutter, N
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-**Mobile Development**
+### Développement Mobile
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="ios logo"  />
 </div>
 
-###
+---
 
-## 📍 Current Local Time
+## 📊 Ce que je fais
 
-###
+```
+📱 Applications mobiles natives    ████████████████░░  85%
+🌐 Applications web modernes        ██████████████████  95%
+⚡ APIs et services backend         ████████████████░░  88%
+🎨 Design & UX                      ██████████████░░░░  75%
+```
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Tunisia%20(GMT+1)-blue?style=flat&logo=clockify&logoColor=white" alt="timezone" />
+---
+
+## 🌟 Points Forts
+
+- ✅ Livraison de projets dans les délais
+- ✅ Code propre et maintenable
+- ✅ Communication claire et professionnelle
+- ✅ Veille technologique constante
+- ✅ Résolution créative de problèmes
+
+---
+
+## 📬 Restons Connectés
+
+Je suis toujours ouvert à de nouveaux projets et collaborations passionnants !
+
+**📧 Email** : [gabsijihed@gmail.com](mailto:gabsijihed@gmail.com)  
+**💼 LinkedIn** : [Jihed Gabsi](https://www.linkedin.com/in/jihed-gabsi-9b43a7317)  
+**🌐 Portfolio** : [gabsijihed.vercel.app](https://gabsijihed.vercel.app/)  
+**📱 Téléphone** : +216 94 400 107
+
+---
+
+## ⏰ Disponibilité
+
+**Fuseau horaire** : GMT+1 (Tunis, Tunisie)  
+**Disponible pour** : Projets freelance, missions en remote, collaborations
+
+---
+
+<div align="center">
+
+### 💡 "Le code est de la poésie pour les machines, de la magie pour les utilisateurs"
+
+**Transformons vos idées en réalité digitale**
+
 </div>
-
-###
-
-## Connect with me
-
-###
-
-<div align="left">
-  <a href="https://gabsijihed.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="portfolio logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jihed-gabsi-9b43a7317" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:gabsijihed@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="tel:+21694400107" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-+216_94_400_107-green?style=flat&logo=phone&logoColor=white" width="52" height="40" alt="phone" />
-  </a>
-</div>
-
-###
